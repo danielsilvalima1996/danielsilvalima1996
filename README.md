@@ -35,6 +35,8 @@
   <a href="https://github.com/danielsilvalima1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvalima1996&layout=compact&langs_count=6&theme=cobalt2"/>
 </div>
+##
+
 <div style="display: inline_block;"><br>
   <img style="padding-right: 10px;" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img style="padding-right: 10px;" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/>
