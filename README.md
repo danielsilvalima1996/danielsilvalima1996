@@ -35,6 +35,7 @@
   <a href="https://github.com/danielsilvalima1996">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsilvalima1996&layout=compact&langs_count=6&theme=cobalt2"/>
 </div>
+
 ##
 
 <div style="display: inline_block;"><br>
