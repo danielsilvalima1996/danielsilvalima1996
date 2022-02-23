@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Java, Angular 2+ and SQL.
 - 🌱 I’m currently learning SQL Advanced
-- 👯 I’m looking to collaborate on Angular 2+ and PO-UI.
+- 👯 I’m looking to collaborate on Angular 2+, Angular Material, Springboot, Java 8+ and PO-UI.
 - 🤔 I’m looking for help with Java, TypeScript, JavaScript, Docker and Web Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dsl15021996@gmail.com
