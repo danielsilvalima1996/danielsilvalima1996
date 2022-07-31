@@ -8,7 +8,7 @@
 - 📫 How to reach me: dsl15021996@gmail.com
 - 😄 Pronouns: He/Him/Ele/Dele.
 - ⚡ Fun fact: I love cooking 
-- :eyes: My Person Project: https://danielsilvalima1996.github.io/portfolio/
+- :eyes: My Person Project: https://danielsilvalima.com/
 ##
 <div>
   <a href="https://www.linkedin.com/in/daniel-da-silva-de-lima-a96669145" target="_blank">
