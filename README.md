@@ -7,8 +7,7 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: dsl15021996@gmail.com
 - 😄 Pronouns: He/Him/Ele/Dele.
-- ⚡ Fun fact: I love cooking 
-- :eyes: My Person Project: https://danielsilvalima.com/
+- ⚡ Fun fact: I love cooking, play video game and watch tv series about super heroes and sitcoms.
 ##
 <div>
   <a href="https://www.linkedin.com/in/daniel-da-silva-de-lima-a96669145" target="_blank">
