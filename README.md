@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with Java, TypeScript, JavaScript, Docker and Web Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dsl15021996@gmail.com
+- 📞 +55 11 98628-4900
 - 😄 Pronouns: He/Him/Ele/Dele.
 - ⚡ Fun fact: I love cooking, play video game and watch tv series about super heroes and sitcoms.
 ##
