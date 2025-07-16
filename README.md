@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Java, SQL and Kafka.
-- 🌱 I’m currently learning Java 21 and GCP Pubsub.
+- 🌱 I’m currently learning Java 21 and Pubsub.
 - 👯 I’m looking to collaborate on Java 8+.
 - 🤔 I’m looking for help with Java, TypeScript, JavaScript, Docker and Full Stack Projects.
 - 💬 Ask me about anything.
