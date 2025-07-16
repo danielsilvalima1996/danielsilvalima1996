@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java, Angular 2+ and Oracle/SQL.
-- 🌱 I’m currently learning design pattern
-- 👯 I’m looking to collaborate on Angular 2+, Angular Material, Springboot, Java 8+ and PO-UI.
-- 🤔 I’m looking for help with Java, TypeScript, JavaScript, Docker and Web Projects.
+- 🔭 I’m currently working on Java, SQL and Kafka.
+- 🌱 I’m currently learning Java 21 and GCP Pubsub.
+- 👯 I’m looking to collaborate on Java 8+.
+- 🤔 I’m looking for help with Java, TypeScript, JavaScript, Docker and Full Stack Projects.
 - 💬 Ask me about anything.
 - 📫 How to reach me: dsl15021996@gmail.com
 - 📞 +55 11 98628-4900
 - 😄 Pronouns: He/Him/Ele/Dele.
-- ⚡ Fun fact: I love cooking, play video game and watch tv series about super heroes and sitcoms.
+- ⚡ Fun fact: I love cooking, play video game and watch tv series about super heroes, SCI-FI and sitcoms.
 ##
 <div>
   <a href="https://www.linkedin.com/in/daniel-da-silva-de-lima-a96669145" target="_blank">
